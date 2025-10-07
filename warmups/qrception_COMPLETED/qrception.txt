@@ -1,1 +1,4 @@
-
+Name: QRCeption
+Value: 10 Points
+Category: Warmup
+Author: @JohnHammond
