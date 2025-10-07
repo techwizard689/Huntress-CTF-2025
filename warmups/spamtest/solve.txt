@@ -12,4 +12,4 @@ Time to do some careful Googling... what's the MD5 hash of the Generic Test for 
 
 3. Put it inside of flag parameters flag{6a684e1cdca03e6a436d182dd4069183}
 
-Submit: Corredct
+Submit: Correct
