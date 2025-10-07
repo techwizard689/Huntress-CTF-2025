@@ -1,1 +1,4 @@
-
+Name: Just a Little Bit
+Value: 10 Points
+Category: Warmup
+Author: @JohnHammond
