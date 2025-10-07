@@ -1,1 +1,4 @@
-
+Name: Cover all your bases
+Value: 10 Points (10 questions/1 point per question)
+Category: Warmup
+Author: @JohnHammond
