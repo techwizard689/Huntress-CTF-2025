@@ -1,1 +1,4 @@
-
+Name: Maximum Sound
+Value: 10 Points
+Category: Warmup
+Author: @JohnHammond
